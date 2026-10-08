@@ -1,2 +1,4 @@
 # Shopee-Sentiment-Analysis-NLP
 Repository ini merupakan bagian dari pembelajaran Deep Learning dengan penerapan NLP klasifikasi.
+
+Project ini melakukan analisis sentimen terhadap ulasan pengguna aplikasi Shopee Indonesia yang diambil dari Google Play Store. Proses yang dilakukan meliputi scraping data ulasan, text preprocessing (case folding, cleaning, normalisasi slang, tokenisasi, stopword removal, dan stemming menggunakan Sastrawi), pelabelan sentimen berbasis lexicon, ekstraksi fitur menggunakan TF-IDF, hingga pelatihan dan evaluasi model klasifikasi menggunakan Logistic Regression dan SVM.
